@@ -1,0 +1,29 @@
+.container{background-color: lightblue;
+position: relative;
+padding-top: 100px;}
+body{margin:0;text-align: center;
+font-family: 'Merriweather', serif;
+color:#40514E;}
+h1{
+  color: #66BFBF;
+font-family: 'Sacramento', cursive;
+font-size: 562%;
+margin:  50px auto 0 auto;}
+h2{font-size: 2.5rem;font-family: 'Montserrat', sans-serif;color: #66BFBF;padding-bottom:1px; }
+h3{font-family: 'Montserrat', sans-serif;color:#11999E;}
+hr{border:dotted lightgreen 6px;
+border-bottom:none;
+width:4% }
+.BC{position:absolute;left:300px;bottom:300px;}
+.TC{position:absolute; right:300px;top:50px;}
+.profile-pic{border-radius: 100%}
+.middle-container{background-color: lightblue;}
+.contact-me{background-color: lightblue;padding-bottom: 20px;}
+.bottom-container{background-color:#11999E ;padding-top: 30px;}
+.skill-row{width:50%; margin:100px auto 100px auto;text-align: left;}
+.comp-image{width:25%;float: left;margin-right: 30px;}
+.chill-image{width:25%;float: right;margin-left: 30px;}
+.footer-link{margin-left: 10px;font-family: 'Montserrat', sans-serif;
+text-decoration: none;}
+a{text-decoration: none;}
+a:hover{color: lightblue;}
